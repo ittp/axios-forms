@@ -1,0 +1,28 @@
+{
+  "name": "9expr",
+  "version": "0.0.106",
+  "description": "This example demonstrates how to use Formik in it's most basic way",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "0.19.2",
+    "formik": "latest",
+    "qs": "6.9.4",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "react-scripts": "3.4.1"
+  },
+  "prettier": {
+    "trailingComma": "es5",
+    "singleQuote": true,
+    "semi": true
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
